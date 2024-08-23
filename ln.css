@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px; */
+}
+
+
+
+.sect1{
+    background-color: rgb(42, 154, 234);
+    height: 500px;
+    /* width:00; */
+    border-radius: 30px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.bg{
+    background-color: rgb(246, 243, 243);
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    width: 700px;
+    height: 470px;
+    padding-left: 10px;
+    /* margin-left: 5px; */
+    padding-top: 30px;
+    float: right;
+    box-shadow: 40px;
+    /* margin-right: 5px; */
+}
+
+h1{
+    margin-left: 60px;
+    font-family: Century Gothic;
+}
+
+.one{
+    margin-top: 30px;
+    margin-left: 60px;
+    width: 400px;
+    border: none;
+    border: white;
+    height: 30px;
+    background-color: rgb(246, 243, 243);
+    
+}
+
+.two{
+    margin-left: 60px;
+    width: 400px;
+    border: none;
+    height: 30px;
+    border: white;
+    border: none;
+    background-color: rgb(246, 243, 243);
+}
+
+.three{
+    margin-left: 60px;
+    width: 400px;
+    border: none;
+    height: 30px;
+    border: white;
+    background-color: rgb(246, 243, 243);
+}
+
+button{
+    background-color: blue;
+    color: white;
+    margin-left: 60px;
+    width: 400px;
+    border: none;
+    height: 30px;
+    border-radius: 20px;
+    height: 30px;
+    font-family: Century Gothic;
+    cursor: pointer;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    margin-top: 30px;
+    margin-left: 120px;
+}
+.google{
+    height: 30px;
+}
+.twitter{
+    height: 30px;
+}
+
+.telegram{
+    height: 30px;
+}
+
+.in{
+    height: 30px;
+}
+
+
